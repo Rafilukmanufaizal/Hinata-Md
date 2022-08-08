@@ -7,29 +7,29 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['6281575886399']
-global.premium = ['6281575886399']
-global.youtube = 'https://youtube.com/c/Riy'
-global.ownername = 'Riy'
-global.botname ='Hinata-Md'
+global.owner = ['6285693650294','6285600380823']
+global.premium = ['6285693650294','6285600380823']
+global.youtube = 'https://instagram.com/lebihkerendariandy_warholl.093'
+global.ownername = 'Yuds'
+global.botname ='SongoSixBotz'
 global.donasi = {
-    saweria: 'https://saweria.co/riy20',
-    nomor: '081575886399'
+    saweria: '-',
+    nomor: '085693650294'
 }
-global.packname = 'Hinata-Md'
-global.author = 'WhatsApp Bot'
+global.packname = 'SongoSixBotz'
+global.author = 'Yuds'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    admin: 'Lu bukan admin anjeng!',
+    botAdmin: 'Jadiin gua admin dulu tod!',
+    owner: 'lu bukan owner gua anj',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...'
+    wait: 'sabar pantek'
 }
 global.thumb = fs.readFileSync('./image/hinata.jpg')
 global.vn = './sound/menu.mp3'
