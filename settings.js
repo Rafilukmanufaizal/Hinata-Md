@@ -13,7 +13,7 @@ global.youtube = 'https://instagram.com/lebihkerendariandy_warholl.093'
 global.ownername = 'Yuds'
 global.botname ='SongoSixBotz'
 global.donasi = {
-    saweria: '-',
+    saweria: 'https://sociabuzz.com/ezinter/support',
     nomor: '085693650294'
 }
 global.packname = 'SongoSixBotz'
